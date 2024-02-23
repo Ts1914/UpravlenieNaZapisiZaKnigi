@@ -1,1 +1,2 @@
-# UpravlenieNaZapisiZaKnigi
+# UpravlenieNaZapisiZaKnigi - правление на Записи за Книги:
+Цветослав Йорданов, България, Плевен
